@@ -26,5 +26,3 @@ I'm an Android Developer and working currently at <a href="http://www.mobillium.
 <a href="https://instagram.com/iamkurtgoz" target="_blank">Instagram</a>
 
 </p>
-
-![Profile views](https://gpvc.arturio.dev/iamkurtgoz)
